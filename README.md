@@ -20,4 +20,3 @@
 
 ## Projects now developing
 ### Nothing.
-<img src="" onload="alert('hello!')"></img>
