@@ -20,3 +20,5 @@
 
 ## Projects now developing
 ### Nothing.
+<p id="test"></p>
+<script>document.getElementById("test").innerText="hello world!";</script>
